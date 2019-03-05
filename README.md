@@ -1,6 +1,8 @@
 # Simple AI Explanations
 
 ## Machine Learning
+[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
 ### Decision Trees
 [Entropy and Information Gain](https://medium.com/coinmonks/what-is-entropy-and-why-information-gain-is-matter-4e85d46d2f01)
 
@@ -22,3 +24,9 @@
 [STRIPS Fiddle](https://stripsfiddle.herokuapp.com/)
 
 [PDDL Editor](http://editor.planning.domains/)
+
+## Metaheuristics
+[Funcion objetivo y restricciones](https://www.youtube.com/watch?v=Yc2u-Zl2dyI)
+[Simulated Annealing](https://www.youtube.com/watch?v=S9vs05eAGN0)
+[Simulated Annealing Algorithm](https://www.youtube.com/watch?v=K7vc60jn1KU)
+[GRASP](http://www.cleveralgorithms.com/nature-inspired/stochastic/grasp.html)
