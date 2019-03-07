@@ -1,4 +1,6 @@
-# Simple AI Explanations
+# Simple AI
+
+A compilation of free resources for learning AI. 
 
 ## Machine Learning
 [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
