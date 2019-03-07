@@ -1,6 +1,8 @@
 # Simple AI Explanations
 
 ## Machine Learning
+[Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
+
 [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 #### Decision Trees
