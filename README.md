@@ -38,6 +38,9 @@ A compilation of free resources for learning AI.
 
 [GRASP](http://www.cleveralgorithms.com/nature-inspired/stochastic/grasp.html)
 
-[Particle Swarm Optimization](https://medium.com/analytics-vidhya/implementing-particle-swarm-optimization-pso-algorithm-in-python-9efc2eb179a6)
-
 [Evolutionary Computation Bestiary](https://github.com/fcampelo/EC-Bestiary)
+
+#### Collective Intelligence
+[Particle Swarm Optimization Implementation](https://medium.com/analytics-vidhya/implementing-particle-swarm-optimization-pso-algorithm-in-python-9efc2eb179a6)
+
+[Ant Colony Optimization TSP](https://github.com/ppoffice/ant-colony-tsp)
