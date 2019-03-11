@@ -1,6 +1,6 @@
 # Simple AI
 
-A compilation of free resources for learning AI. 
+A compilation of free resources for learning AI.
 
 ## Machine Learning
 [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
@@ -30,10 +30,14 @@ A compilation of free resources for learning AI.
 [PDDL Editor](http://editor.planning.domains/)
 
 ## Metaheuristics
-[Funcion objetivo y restricciones](https://www.youtube.com/watch?v=Yc2u-Zl2dyI)
+[Funcion objetivo y restricciones (Spanish)](https://www.youtube.com/watch?v=Yc2u-Zl2dyI)
 
 [Simulated Annealing](https://www.youtube.com/watch?v=S9vs05eAGN0)
 
 [Simulated Annealing Algorithm](https://www.youtube.com/watch?v=K7vc60jn1KU)
 
 [GRASP](http://www.cleveralgorithms.com/nature-inspired/stochastic/grasp.html)
+
+[Particle Swarm Optimization](https://medium.com/analytics-vidhya/implementing-particle-swarm-optimization-pso-algorithm-in-python-9efc2eb179a6)
+
+[Evolutionary Computation Bestiary](https://github.com/fcampelo/EC-Bestiary)
