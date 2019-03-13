@@ -7,6 +7,8 @@ A compilation of free resources for learning AI.
 
 [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
+[Mastering Numerical Computing with Numpy](https://github.com/PacktPublishing/Mastering-Numerical-Computing-with-NumPy)
+
 #### Decision Trees
 [Entropy and Information Gain](https://medium.com/coinmonks/what-is-entropy-and-why-information-gain-is-matter-4e85d46d2f01)
 
@@ -39,6 +41,8 @@ A compilation of free resources for learning AI.
 [GRASP](http://www.cleveralgorithms.com/nature-inspired/stochastic/grasp.html)
 
 [Evolutionary Computation Bestiary](https://github.com/fcampelo/EC-Bestiary)
+
+[Differential Evolution](https://pablormier.github.io/2017/09/05/a-tutorial-on-differential-evolution-with-python/#)
 
 #### Collective Intelligence
 [Particle Swarm Optimization Implementation](https://medium.com/analytics-vidhya/implementing-particle-swarm-optimization-pso-algorithm-in-python-9efc2eb179a6)
