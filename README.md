@@ -9,6 +9,8 @@ A compilation of free resources for learning AI.
 
 [Mastering Numerical Computing with Numpy](https://github.com/PacktPublishing/Mastering-Numerical-Computing-with-NumPy)
 
+[R Caret Tutorial](http://www.rebeccabarter.com/blog/2017-11-17-caret_tutorial/)
+
 #### Decision Trees
 [Entropy and Information Gain](https://medium.com/coinmonks/what-is-entropy-and-why-information-gain-is-matter-4e85d46d2f01)
 
@@ -48,3 +50,10 @@ A compilation of free resources for learning AI.
 [Particle Swarm Optimization Implementation](https://medium.com/analytics-vidhya/implementing-particle-swarm-optimization-pso-algorithm-in-python-9efc2eb179a6)
 
 [Ant Colony Optimization TSP](https://github.com/ppoffice/ant-colony-tsp)
+
+## Reinforcement learning
+[Supervised Learning vs Reinforcement Learning](https://hackernoon.com/reinforcement-learning-and-supervised-learning-a-brief-comparison-1b6d68c45ffa)
+
+[Intro to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0)
+
+[Deep Reinforcement Learning](https://www.youtube.com/watch?v=lvoHnicueoE)
