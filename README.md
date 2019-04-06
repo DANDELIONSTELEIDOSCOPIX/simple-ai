@@ -56,4 +56,10 @@ A compilation of free resources for learning AI.
 
 [Intro to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0)
 
+[Intro to Reinforcement Learning (MIT)](https://www.youtube.com/watch?v=zR11FLZ-O9M)
+
+[Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+
 [Deep Reinforcement Learning](https://www.youtube.com/watch?v=lvoHnicueoE)
+
+[Grid World](https://www.youtube.com/watch?v=bHeeaXgqVig)
