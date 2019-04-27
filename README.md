@@ -63,3 +63,12 @@ A compilation of free resources for learning AI.
 [Deep Reinforcement Learning](https://www.youtube.com/watch?v=lvoHnicueoE)
 
 [Grid World](https://www.youtube.com/watch?v=bHeeaXgqVig)
+
+[Q-Learning in Python](https://www.geeksforgeeks.org/q-learning-in-python/)
+
+[RL with Q Tables](https://itnext.io/reinforcement-learning-with-q-tables-5f11168862c8)
+
+## Knowledge Representation
+[Fuzzy Logic (Spanish)](http://www.lcc.uma.es/~eva/aic/apuntes/fuzzy.pdf)
+
+[Scikit-fuzzy](https://pythonhosted.org/scikit-fuzzy/)
