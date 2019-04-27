@@ -2,6 +2,9 @@
 
 A compilation of free resources for learning AI.
 
+## Learning AI
+[Teach Yourself Programming in 10 Years](http://norvig.com/21-days.html)
+
 ## Machine Learning
 [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 
@@ -35,6 +38,8 @@ A compilation of free resources for learning AI.
 
 ## Metaheuristics
 [Funcion objetivo y restricciones (Spanish)](https://www.youtube.com/watch?v=Yc2u-Zl2dyI)
+
+[Distributed Evolutionary Algorithms in Python](https://deap.readthedocs.io/en/master/)
 
 [Simulated Annealing](https://www.youtube.com/watch?v=S9vs05eAGN0)
 
@@ -72,3 +77,5 @@ A compilation of free resources for learning AI.
 [Fuzzy Logic (Spanish)](http://www.lcc.uma.es/~eva/aic/apuntes/fuzzy.pdf)
 
 [Scikit-fuzzy](https://pythonhosted.org/scikit-fuzzy/)
+
+[Elivra](http://leo.ugr.es/elvira/)
