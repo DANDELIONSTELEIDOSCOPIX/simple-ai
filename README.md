@@ -5,6 +5,8 @@ A compilation of free resources for learning AI.
 ## Learning AI
 [Teach Yourself Programming in 10 Years](http://norvig.com/21-days.html)
 
+[Hacker Rank](https://www.hackerrank.com/)
+
 ## Machine Learning
 [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 
@@ -13,6 +15,8 @@ A compilation of free resources for learning AI.
 [Mastering Numerical Computing with Numpy](https://github.com/PacktPublishing/Mastering-Numerical-Computing-with-NumPy)
 
 [R Caret Tutorial](http://www.rebeccabarter.com/blog/2017-11-17-caret_tutorial/)
+
+[WEKA](https://www.cs.waikato.ac.nz/~ml/weka/)
 
 #### Decision Trees
 [Entropy and Information Gain](https://medium.com/coinmonks/what-is-entropy-and-why-information-gain-is-matter-4e85d46d2f01)
@@ -56,7 +60,7 @@ A compilation of free resources for learning AI.
 
 [Ant Colony Optimization TSP](https://github.com/ppoffice/ant-colony-tsp)
 
-## Reinforcement learning
+## Reinforcement Learning
 [Supervised Learning vs Reinforcement Learning](https://hackernoon.com/reinforcement-learning-and-supervised-learning-a-brief-comparison-1b6d68c45ffa)
 
 [Intro to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0)
@@ -79,3 +83,8 @@ A compilation of free resources for learning AI.
 [Scikit-fuzzy](https://pythonhosted.org/scikit-fuzzy/)
 
 [Elivra](http://leo.ugr.es/elvira/)
+
+## Constraint-based Reasoning
+
+[Constraint Satisfaction](http://www4.cs.umanitoba.ca/~jacky/Teaching/Courses/COMP_4190-ArtificialIntelligence/current/Lectures/L01_ConstraintSatisfaction.pdf)
+
