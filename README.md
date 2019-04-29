@@ -7,6 +7,8 @@ A compilation of free resources for learning AI.
 
 [Hacker Rank](https://www.hackerrank.com/)
 
+[Kaggle](https://kaggle.com)
+
 ## Machine Learning
 [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 
@@ -16,13 +18,18 @@ A compilation of free resources for learning AI.
 
 [R Caret Tutorial](http://www.rebeccabarter.com/blog/2017-11-17-caret_tutorial/)
 
-[WEKA](https://www.cs.waikato.ac.nz/~ml/weka/)
+[Weka](https://www.cs.waikato.ac.nz/~ml/weka/)
+
+[Weka datasets](https://github.com/lpfgarcia/ucipp/tree/master/uci)
 
 #### Decision Trees
 [Entropy and Information Gain](https://medium.com/coinmonks/what-is-entropy-and-why-information-gain-is-matter-4e85d46d2f01)
 
 #### Naive Bayes
 [Naive Bayes Classifier](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html)
+
+#### kNN
+[kNN Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 
 ## Deep Learning
 [Fast.ai](http://fast.ai)
@@ -87,4 +94,6 @@ A compilation of free resources for learning AI.
 ## Constraint-based Reasoning
 
 [Constraint Satisfaction](http://www4.cs.umanitoba.ca/~jacky/Teaching/Courses/COMP_4190-ArtificialIntelligence/current/Lectures/L01_ConstraintSatisfaction.pdf)
+
+[CSP in Python](https://www.csee.umbc.edu/courses/671/fall12/notes/06/csp_python.ppt.pdf)
 
