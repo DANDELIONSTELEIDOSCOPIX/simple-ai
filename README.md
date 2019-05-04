@@ -9,6 +9,8 @@ A compilation of free resources for learning AI.
 
 [Kaggle](https://kaggle.com)
 
+[Intro to AI](http://ai.berkeley.edu/lecture_videos.html)
+
 ## Machine Learning
 [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 
