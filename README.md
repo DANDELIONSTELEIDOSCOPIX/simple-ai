@@ -99,5 +99,7 @@ A compilation of free resources for learning AI.
 
 [CSP in Python](https://www.csee.umbc.edu/courses/671/fall12/notes/06/csp_python.ppt.pdf)
 
+[Branch-and-Bound in Python](https://pypi.org/project/pybnb/)
+
 [Backtracking](http://www.cs.ubbcluj.ro/~cchira/files/AP/C11.pdf)
 
