@@ -86,6 +86,8 @@ A compilation of free resources for learning AI.
 
 [RL with Q Tables](https://itnext.io/reinforcement-learning-with-q-tables-5f11168862c8)
 
+[Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
+
 ## Knowledge Representation
 [Fuzzy Logic (Spanish)](http://www.lcc.uma.es/~eva/aic/apuntes/fuzzy.pdf)
 
