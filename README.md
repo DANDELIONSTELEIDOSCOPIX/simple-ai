@@ -97,6 +97,8 @@ A compilation of free resources for learning AI.
 
 ## Constraint-based Reasoning
 
+[Algorithms for CSPs](http://www.cs.toronto.edu/~fbacchus/Papers/liu.pdf)
+
 [Constraint Satisfaction](http://www4.cs.umanitoba.ca/~jacky/Teaching/Courses/COMP_4190-ArtificialIntelligence/current/Lectures/L01_ConstraintSatisfaction.pdf)
 
 [CSP in Python](https://www.csee.umbc.edu/courses/671/fall12/notes/06/csp_python.ppt.pdf)
