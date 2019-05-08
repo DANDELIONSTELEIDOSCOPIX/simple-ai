@@ -109,3 +109,5 @@ A compilation of free resources for learning AI.
 
 [MiniZinc](https://www.minizinc.org/)
 
+[pymzn](https://github.com/paolodragone/pymzn)
+
