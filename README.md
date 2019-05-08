@@ -109,5 +109,7 @@ A compilation of free resources for learning AI.
 
 [MiniZinc](https://www.minizinc.org/)
 
+[Global Constraint Catalog](http://sofdem.github.io/gccat/gccat/)
+
 [pymzn](https://github.com/paolodragone/pymzn)
 
