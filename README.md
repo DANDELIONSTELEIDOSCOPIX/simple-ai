@@ -107,3 +107,5 @@ A compilation of free resources for learning AI.
 
 [Backtracking](http://www.cs.ubbcluj.ro/~cchira/files/AP/C11.pdf)
 
+[MiniZinc](https://www.minizinc.org/)
+
