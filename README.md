@@ -113,3 +113,4 @@ A compilation of free resources for learning AI.
 
 [pymzn](https://github.com/paolodragone/pymzn)
 
+[DPLL](https://web.stanford.edu/class/archive/cs/cs103/cs103.1134/lectures/10/Small10.pdf)
