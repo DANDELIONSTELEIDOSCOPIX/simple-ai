@@ -116,3 +116,5 @@ A compilation of free resources for learning AI.
 [DPLL](https://web.stanford.edu/class/archive/cs/cs103/cs103.1134/lectures/10/Small10.pdf)
 
 [SAT](http://sat.inesc-id.pt/~ines/sac10.pdf)
+
+[DPLL SAT Solver](http://www.inf.ufpr.br/dpasqualin/d3-dpll/)
