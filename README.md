@@ -118,3 +118,5 @@ A compilation of free resources for learning AI.
 [SAT](http://sat.inesc-id.pt/~ines/sac10.pdf)
 
 [DPLL SAT Solver](http://www.inf.ufpr.br/dpasqualin/d3-dpll/)
+
+[PySchedule](https://github.com/timnon/pyschedule)
