@@ -88,12 +88,14 @@ A compilation of free resources for learning AI.
 
 [Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
 
-## Knowledge Representation
+## Knowledge Representation & Automated Reasoning
 [Fuzzy Logic (Spanish)](http://www.lcc.uma.es/~eva/aic/apuntes/fuzzy.pdf)
 
 [Scikit-fuzzy](https://pythonhosted.org/scikit-fuzzy/)
 
 [Elivra](http://leo.ugr.es/elvira/)
+
+[Answer Set Programming](https://potassco.org/)
 
 ## Constraint-based Reasoning
 
