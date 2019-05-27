@@ -88,6 +88,9 @@ A compilation of free resources for learning AI.
 
 [Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
 
+## Heuristic Search
+(A* Algorithm) [https://www.youtube.com/watch?v=eSOJ3ARN5FM]
+
 ## Knowledge Representation & Automated Reasoning
 [Fuzzy Logic (Spanish)](http://www.lcc.uma.es/~eva/aic/apuntes/fuzzy.pdf)
 
