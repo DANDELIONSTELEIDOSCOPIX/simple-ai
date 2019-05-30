@@ -94,6 +94,8 @@ A compilation of free resources for learning AI.
 ## Knowledge Representation & Automated Reasoning
 [Fuzzy Logic (Spanish)](http://www.lcc.uma.es/~eva/aic/apuntes/fuzzy.pdf)
 
+[Fuzzy Arithmetic](https://slideplayer.com/slide/4598524/)
+
 [Scikit-fuzzy](https://pythonhosted.org/scikit-fuzzy/)
 
 [Elivra](http://leo.ugr.es/elvira/)
