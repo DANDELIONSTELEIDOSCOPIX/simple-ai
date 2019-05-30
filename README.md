@@ -100,6 +100,8 @@ A compilation of free resources for learning AI.
 
 [Answer Set Programming](https://potassco.org/)
 
+[NuSMV Examples](http://disi.unitn.it/~agiordani/fm/L6/main.pdf)
+
 ## Constraint-based Reasoning
 
 [Algorithms for CSPs](http://www.cs.toronto.edu/~fbacchus/Papers/liu.pdf)
